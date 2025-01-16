@@ -73,6 +73,7 @@ Each CPU was tested if its possible to catch up with a non voting node.
 | Yes          | **AMD**      | AMD EPYC 74F3                      | 3.2 GHz    | Up to 4   GHz   | 24    | 48      | 240W        | Yes, default Layout | Yes, default Layout  |   
 | Yes          | **AMD**      | AMD EPYC 7742                      | 2.25 GHz   | Up to 3.4 GHz   | 64    | 128     | 225W        | Yes, default Layout | Yes, default Layout  |   
 | No           | **AMD**      | Ryzen 9 5900X                      | 3.7 GHz    | Up to 4.8 GHz   | 12    | 24      | 105W        | Yes, custom Layout  | No                   |   
+| No           | **AMD**      | AMD EPYC 8324P                     | 2.65 GHz   | Up to 3   GHz   | 32    | 64      | 180W        | Yes, default Layout  | Not tested          |
 
 Tested Testnet Layout for Ryzen 9 5900X: one verify tile, one bank tile and agave affinity "auto"   
 
